@@ -61,6 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				wedding: {
+					sage: '#87A96B',
+					beige: '#F5F5DC',
+					cream: '#FFFDD0',
+					forest: '#5D7C47',
+					sand: '#E8D5B7',
+					ivory: '#FFFFF0',
+					dusty: '#B5A18F'
 				}
 			},
 			borderRadius: {
